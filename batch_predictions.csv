@@ -1,0 +1,21 @@
+PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked,Predicted_Survived,Prediction_Label
+531,2,"Quick, Miss. Phyllis May",female,2.0,1,1,26360,26.0,,S,1,Survived
+402,3,"Adams, Mr. John",male,26.0,0,0,341826,8.05,,S,0,Did not survive
+434,3,"Kallio, Mr. Nikolai Erland",male,17.0,0,0,STON/O 2. 3101274,7.125,,S,0,Did not survive
+242,3,"Murphy, Miss. Katherine ""Kate""",female,,1,0,367230,15.5,,Q,1,Survived
+774,3,"Elias, Mr. Dibo",male,,0,0,2674,7.225,,C,0,Did not survive
+715,2,"Greenberg, Mr. Samuel",male,52.0,0,0,250647,13.0,,S,0,Did not survive
+245,3,"Attalah, Mr. Sleiman",male,30.0,0,0,2694,7.225,,C,0,Did not survive
+41,3,"Ahlin, Mrs. Johan (Johanna Persdotter Larsson)",female,40.0,1,0,7546,9.475,,S,0,Did not survive
+474,2,"Jerwan, Mrs. Amin S (Marie Marthe Thuillard)",female,23.0,0,0,SC/AH Basle 541,13.7917,D,C,1,Survived
+272,3,"Tornquist, Mr. William Henry",male,25.0,0,0,LINE,0.0,,S,0,Did not survive
+727,2,"Renouf, Mrs. Peter Henry (Lillian Jefferys)",female,30.0,3,0,31027,21.0,,S,1,Survived
+571,2,"Harris, Mr. George",male,62.0,0,0,S.W./PP 752,10.5,,S,0,Did not survive
+443,3,"Petterson, Mr. Johan Emil",male,25.0,1,0,347076,7.775,,S,1,Survived
+83,3,"McDermott, Miss. Brigdet Delia",female,,0,0,330932,7.7875,,Q,1,Survived
+85,2,"Ilett, Miss. Bertha",female,17.0,0,0,SO/C 14885,10.5,,S,1,Survived
+158,3,"Corn, Mr. Harry",male,30.0,0,0,SOTON/OQ 392090,8.05,,S,0,Did not survive
+398,2,"McKane, Mr. Peter David",male,46.0,0,0,28403,26.0,,S,0,Did not survive
+502,3,"Canavan, Miss. Mary",female,21.0,0,0,364846,7.75,,Q,1,Survived
+702,1,"Silverthorne, Mr. Spencer Victor",male,35.0,0,0,PC 17475,26.2875,E24,S,1,Survived
+390,2,"Lehmann, Miss. Bertha",female,17.0,0,0,SC 1748,12.0,,C,1,Survived
